@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "cool19910317 <calvin_tx@yeah.net>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
